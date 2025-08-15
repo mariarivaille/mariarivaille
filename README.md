@@ -11,10 +11,17 @@ I'm Maria 🌟
   - Agents
   - Memory
   - Benchmarking
-  - Multimodality
-  - Interpretation
+  - Multimodality: Visual LM, Audio LM, Time Series LM
+  - Adversarial Attacks
+  - Hallucinations & uncertainty estimation
 - Natural Language Processing (NLP)
+  - Bias, Fairness & Ethics
+  - Interpretation
 - Computer Vision (CV)
+  - Diffusion Models
 - Machine Learning (ML)
+  - Reinforcement Learning
+  - Clustering & representation learning
+  - Computational Finance, Credit Risk Modeling
 
 ✨ Reach out on Telegram: @m_rivaille
