@@ -8,7 +8,11 @@ I'm Maria 🌟
 💻 Fields of Interest:
 
 - Large Language Models (LLMs)
-- - Agents
+  - Agents
+  - Memory
+  - Benchmarking
+  - Multimodality
+  - Interpretation
 - Natural Language Processing (NLP)
 - Computer Vision (CV)
 - Machine Learning (ML)
