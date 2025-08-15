@@ -1,4 +1,4 @@
-# Whoami:
+# > whoami
 I'm Maria 🌟
 
 🎓 My first degree is in Economics, but my passion for Machine Learning drove me into the field of Computer Science.
