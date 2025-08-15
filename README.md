@@ -1,27 +1,40 @@
 # > whoami
-I'm Maria 🌟
+Hi, there, I'm Maria 🌟
 
-🎓 My first degree is in Economics, but my passion for Machine Learning drove me into the field of Computer Science.
+**Data Scientist | ML Researcher | Computer Science Enthusiast**
 
-🔥 I've been actively developing and working as a Data Scientist since 2022.
+🎓 Economics graduate turned Computer Science passionate, specializing in Machine Learning.  
+🔥 Actively developing and working as a Data Scientist since 2022.
 
-💻 Fields of Interest:
+## 🔧 Technologies & Skills
+- Python (PyTorch, transformers, scikit-learn, Langchain)
+- SQL
+- Linux, Git, Docker
 
-- Large Language Models (LLMs)
-  - Agents
-  - Memory
-  - Benchmarking
-  - Multimodality: Visual LM, Audio LM, Time Series LM
-  - Adversarial Attacks
-  - Hallucinations & uncertainty estimation
-- Natural Language Processing (NLP)
-  - Bias, Fairness & Ethics
-  - Interpretation
-- Computer Vision (CV)
-  - Diffusion Models
-- Machine Learning (ML)
-  - Reinforcement Learning
-  - Clustering & representation learning
-  - Computational Finance, Credit Risk Modeling
+## 🧠 Research Interests
+### Core Focus Areas
+- **Large Language Models (LLMs)**
+  - Agents architectures
+  - Memory mechanisms
+  - Multimodality (Visual LM, Audio LM, Time Series LM)
+  - Model Benchmarking & Evaluation
+- **Model Reliability**
+  - Adversarial Attacks robustness
+  - Hallucinations mitigation
 
-✨ Reach out on Telegram: @m_rivaille
+### Specialized Applications
+- Diffusion Models
+- Computational Finance
+- Credit Risk Modeling
+
+- ### Other fields of interest
+- Reinforcement Learning
+- Bias & Fairness
+- Model Interpretation
+- Uncertainty estimation
+
+## 📫 Let's Connect!
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-blue)](https://t.me/m_rivaille)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:m.rivaille@yandex.ru)
+
+> "It always seems impossible until it's done."
