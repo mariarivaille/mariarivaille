@@ -27,7 +27,7 @@ Hi, there, I'm Maria 🌟
 - Computational Finance
 - Credit Risk Modeling
 
-- ### Other fields of interest
+### Other fields of interest
 - Reinforcement Learning
 - Bias & Fairness
 - Model Interpretation
@@ -37,4 +37,4 @@ Hi, there, I'm Maria 🌟
 [![Telegram](https://img.shields.io/badge/Telegram-Connect-blue)](https://t.me/m_rivaille)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:m.rivaille@yandex.ru)
 
-> "It always seems impossible until it's done."
+> "It always seems impossible until it's done".
